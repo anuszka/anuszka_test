@@ -1,2 +1,2 @@
-# anuszka_test.github.io
+# anuszka_test
 test
